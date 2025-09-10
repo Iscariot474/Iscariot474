@@ -6,6 +6,18 @@
 
 ###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/marcelo-pinto-a8907616a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://dev.to/marcelo_martins_41c7f1c95" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  </a>
+</div>
+
+###
+
 <h2 align="left">I am super excited about improving myself with the skillset to master Data Science and Data Analytics for analyses, interpret trends or find patterns in complex data sets:<br>🌱 ATM learning Apache Spark (PySpark) - Rust programming language ⚙️<br>💬 Ask me about: data - technologies and projects collaborations 🤖🤖</h2>
 
 ###
