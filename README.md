@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">## Hi there, I'm Marcelo Iscariot 👋</p>
+<p align="center">## Hi there, I'm Marcelo Iscariot 👋</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 20 years ago - when I got my first computer 🖥️<br>📚 I'm currently learning PySpark and loving it 💕<br>🎯 Goals: Reach the Sky 🚀<br>🎲 Fun fact: In binary, “LOL” is 01001100 01001111 01001100.</p>
+<p align="right">✨ Creating bugs since 20 years ago - when I got my first computer 🖥️<br>📚 I'm currently learning PySpark and loving it 💕<br>🎯 Goals: Reach the Sky 🚀<br>🎲 Fun fact: In binary, “LOL” is 01001100 01001111 01001100.</p>
 
 ###
 
